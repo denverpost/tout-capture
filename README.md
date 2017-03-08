@@ -2,7 +2,7 @@
 
 #### Setup
 
-First, gather the data about your Touts from the Partner Dashboard using ParseHub following the (instructions in this Google Document)[]
+First, gather the data about your Touts from the Partner Dashboard using ParseHub following the (instructions in this Google Document)[https://docs.google.com/document/d/1FxDMNJSFLGRnsdKor2lk5WRKmA_y8yAUQ8Y9fa-ynK8/edit].
 
 Ensure that your formulae gather the:
 
